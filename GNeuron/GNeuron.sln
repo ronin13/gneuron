@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GBackpropagator", "GBackpropagator\GBackpropagator.csproj", "{07774003-92AF-4081-9A57-45E8892F91B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{2A8C2C46-1DE8-453D-8E23-AFE67748DA6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07774003-92AF-4081-9A57-45E8892F91B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07774003-92AF-4081-9A57-45E8892F91B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07774003-92AF-4081-9A57-45E8892F91B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07774003-92AF-4081-9A57-45E8892F91B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A8C2C46-1DE8-453D-8E23-AFE67748DA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A8C2C46-1DE8-453D-8E23-AFE67748DA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A8C2C46-1DE8-453D-8E23-AFE67748DA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A8C2C46-1DE8-453D-8E23-AFE67748DA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

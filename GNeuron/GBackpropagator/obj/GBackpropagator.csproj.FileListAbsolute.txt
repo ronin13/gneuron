@@ -1,0 +1,10 @@
+G:\EBooks\GPU\Back\Back\GBackpropagator\obj\Release\ResolveAssemblyReference.cache
+G:\EBooks\GPU\Back\Back\GBackpropagator\bin\Release\GBackpropagator.dll
+G:\EBooks\GPU\Back\Back\GBackpropagator\bin\Release\GBackpropagator.pdb
+G:\EBooks\GPU\Back\Back\GBackpropagator\obj\Release\GBackpropagator.dll
+G:\EBooks\GPU\Back\Back\GBackpropagator\obj\Release\GBackpropagator.pdb
+G:\EBooks\GPU\GNeuron\GNeuron\GBackpropagator\bin\Release\GBackpropagator.dll
+G:\EBooks\GPU\GNeuron\GNeuron\GBackpropagator\bin\Release\GBackpropagator.pdb
+G:\EBooks\GPU\GNeuron\GNeuron\GBackpropagator\obj\Release\ResolveAssemblyReference.cache
+G:\EBooks\GPU\GNeuron\GNeuron\GBackpropagator\obj\Release\GBackpropagator.dll
+G:\EBooks\GPU\GNeuron\GNeuron\GBackpropagator\obj\Release\GBackpropagator.pdb
